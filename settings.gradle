@@ -1,0 +1,5 @@
+rootProject.name = 'course-work-chat-app'
+include 'server'
+include 'cryptography-starter'
+include 'client'
+
